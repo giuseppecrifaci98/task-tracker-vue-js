@@ -1,4 +1,7 @@
-# task-tracker
+# Task Tracker 
+
+This is the simple task tracker created in Vue Js 3 and Font Awesome.
+
 
 ## Project setup
 ```
